@@ -1,0 +1,4 @@
+pandas==2.0.3
+numpy==1.26.2
+reverse_geocoder==1.5.1
+pycountry==24.6.1
